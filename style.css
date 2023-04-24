@@ -1,0 +1,46 @@
+h1{
+    color: red;
+}
+
+h2{
+    color: tomato;
+    font-style: italic;
+}
+
+.con{
+    line-height: 50px;
+    color: brown;
+
+}
+
+#del{
+    text-decoration: line-through;
+}
+
+#bg{
+    background-color: yellow;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.sp{
+    letter-spacing: 5px;
+    color: rgb(189, 59, 59);
+}
+
+p{
+    color: brown;
+}
+
+#Button{
+    color: tomato;
+    font-style: italic;
+    background-color: yellow;
+}
+
+
+
+
+
